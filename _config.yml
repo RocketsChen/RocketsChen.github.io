@@ -1,10 +1,10 @@
 # Site settings
 title: RC Blog
-SEOTitle: 陈甸甸的博客 | RockentsChen Blog
+SEOTitle: 陈甸甸的博客 | RocketsChen Blog
 header-img: img/home-bg-art.jpg
 email: rocketschenmet@gmail.com
 description: "Write the life!"
-keyword: "RocketsChen, RockentsChen Blog, 陈甸甸的博客, chendiandian, 陈甸甸, iOS, Apple, iPhone"
+keyword: "RocketsChen, RocketsChen Blog, 陈甸甸的博客, chendiandian, 陈甸甸, iOS, Apple, iPhone"
 url: "http://RocketsChen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/RocketsChen/RocketsChen.github.io.git" # you code repository
