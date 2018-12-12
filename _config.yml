@@ -1,7 +1,7 @@
 # Site settings
 title: RC Blog
 SEOTitle: 陈甸甸的博客 | RockentsChen Blog
-header-img: img/RockentsChen.png
+header-img: img/home-bg-art.jpg
 email: rocketschenmet@gmail.com
 description: "Write the life!"
 keyword: "RocketsChen, RockentsChen Blog, 陈甸甸的博客, chendiandian, 陈甸甸, iOS, Apple, iPhone"
@@ -22,7 +22,7 @@ weibo_username:     RocketsChen_
 # zhihu_username:     RocketsChen
 github_username:    RocketsChen
 # facebook_username:  RocketsChen
-jianshu_username:   RocketsChen
+jianshu_username:   4762736f28a8
 #twitter_username:   RocketsChen
 
 
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-130780696-1'            # Format: UA-xxxxxx-xx
