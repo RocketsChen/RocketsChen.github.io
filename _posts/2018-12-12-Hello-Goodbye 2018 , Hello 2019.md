@@ -2,7 +2,7 @@
 layout:     post
 title:      Goodbye 2018 , Hello 2019
 subtitle:    "\"Hello RocketsChen Blog\""
-date:       2017-02-04
+date:       2018-12-12
 author:     CDD
 header-img: img/post-bg-hello.png
 catalog: true
