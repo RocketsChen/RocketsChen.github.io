@@ -1,10 +1,10 @@
 # Site settings
-title: RocketsChen Blog
-SEOTitle: 陈甸甸的博客 | RocketsChen Blog
+title: RC Blog
+SEOTitle: 陈甸甸的博客 | RC Blog
 header-img: img/RockentsChen.png
 email: rocketschenmet@gmail.com
 description: "一生温暖纯良，不舍爱与自由"
-keyword: "RocketsChen, RocketsChen Blog, 陈甸甸的博客, chendiandian, 陈甸甸, iOS, Apple, iPhone"
+keyword: "RocketsChen, RC Blog, 陈甸甸的博客, chendiandian, 陈甸甸, iOS, Apple, iPhone"
 url: "http://RocketsChen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/RocketsChen/RocketsChen.github.io.git" # you code repository
@@ -19,7 +19,7 @@ sidebar-avatar: /img/rocketsChen-gentle.jpg     # use absolute URL, seeing it's 
 # SNS settings
 RSS: false
 weibo_username:     RocketsChen_
-zhihu_username:     RocketsChen
+# zhihu_username:     RocketsChen
 github_username:    RocketsChen
 # facebook_username:  RocketsChen
 jianshu_username:   RocketsChen
