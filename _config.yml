@@ -12,7 +12,7 @@ github_repo: "https://github.com/RocketsChen/RocketsChen.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "听从你心，我问西东"
-sidebar-avatar: /img/rocketsChen-gentle.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-BY-gentle.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
