@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      Goodbye 2018 , Hello 2019
-subtitle:    "\"Hello RocketsChen Blog\""
+subtitle:   Hello RocketsChen Blog
 date:       2018-12-12
-author:     CDD
-header-img: img/post-bg-hello.png
+author:     RocketsChen
+header-img: img/post-bg-hello.jpg
 catalog: true
 tags:
     - 生活
