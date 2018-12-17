@@ -7,6 +7,7 @@ author:     RocketsChen
 header-img: img/post-bg-hello.jpg
 catalog: true
 tags:
+    - 源
     - 生活
 ---
 
@@ -16,7 +17,7 @@ tags:
 
 > RocketsChen Blog Welcome！
 
-之前博客分享一直在简书这个平台上，但觉得还是应该自己搭建一个。非常感谢网上那些博客，起到了很大的帮助
+之前博客分享一直在简书这个平台上，但觉得还是应该自己搭建一个。非常感谢网上那些博客分享，GitHub＋阿里云域名绑定
 
 GitHub：[RocketsChen](https://github.com/RocketsChen)
 
