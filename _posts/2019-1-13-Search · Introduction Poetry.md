@@ -13,8 +13,9 @@ tags:
 ---
 
 <div style="height: 60px; text-align: center; line-height: 60px ;color:#00000">
+
+    <div style="font-size:32px">寻觅·诗APP 功能介绍</div> 
     
-    <font size=6>寻觅·诗APP 功能介绍 </font>
     
 </div>
 
@@ -47,4 +48,10 @@ tags:
 ###### 寻觅·诗，一个诗词录APP，这里有你想要的诗篇，本APP还支持自定义字体，通知等功能，欢迎下载体验。如果您更好的建议欢迎联系我。
 
 #### 最后感谢所有使用的用户，并在此特别感谢网络平台的分享、收集和借鉴包括不限于：百度百科、iconfont、诗词网等。
+
+<div style="height: 40px; text-align: center; line-height: 40px ;color:#9E9E9E">
+    
+    <div style="font-size:13px">Copyright©️2018 CDD All rights Reserved.</div> 
+    
+</div>
 
