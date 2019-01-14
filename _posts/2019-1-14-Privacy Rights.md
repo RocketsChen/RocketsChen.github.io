@@ -12,15 +12,12 @@ tags:
 - 隐私权限
 ---
 
-
-<div style="height: 60px; text-align: center; line-height: 60px ;color:#00000";>
+<div style="height: 60px; text-align: center; line-height: 60px ;color:#00000">
 
     <div style="font-size:32px">寻觅·诗APP 隐私权限政策</div> 
     
+    
 </div>
-
-
-
 
 
 #### 寻觅·诗APP（以下简称“我们”）本着尊重和保护所有用户的个人隐私权限，我们会尽全力的保护您的隐私安全，请您放心使用。同时我们承诺一定遵守苹果香港隐私政策来保护您的信息。请用户在使用前必先仔细阅读本隐私权限政策和一些基于中华人民共和国法律条例下的一些条款。
