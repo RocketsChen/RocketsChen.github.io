@@ -1,4 +1,16 @@
-
+---
+layout:     post
+title:      寻觅·诗
+subtitle:   隐私权限
+date:       2019-1-14
+author:     RocketsChen
+header-img: xxxx
+catalog: true
+tags:
+- iOS
+- 寻觅·诗
+- 隐私权限
+---
 
 <div style="height: 100px; text-align: center; line-height: 50px ;color:#00000">
 

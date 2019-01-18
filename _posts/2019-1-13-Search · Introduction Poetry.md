@@ -1,4 +1,16 @@
-
+---
+layout:     post
+title:      寻觅·诗
+subtitle:   功能介绍
+date:       2019-1-13
+author:     RocketsChen
+header-img: xxxx
+catalog: true
+tags:
+- iOS
+- 寻觅·诗
+- 功能介绍
+---
 
 <div style="height: 100px; text-align: center; line-height: 50px ;color:#00000">
 
