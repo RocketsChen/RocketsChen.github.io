@@ -1,18 +1,6 @@
----
-layout:     post
-title:      寻觅·诗
-subtitle:   功能介绍
-date:       2019-1-13
-author:     RocketsChen
-header-img: xxxx
-catalog: true
-tags:
-- iOS
-- 寻觅·诗
-- 功能介绍
----
 
-<div style="height: 200px; text-align: center; line-height: 200px ;color:#00000">
+
+<div style="height: 100px; text-align: center; line-height: 50px ;color:#00000">
 
     <div style="font-size:32px">寻觅·诗APP 功能介绍</div> 
     
