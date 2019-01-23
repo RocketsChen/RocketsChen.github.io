@@ -12,7 +12,7 @@ tags:
 - 隐私权限
 ---
 
-<div style="height: 100px; text-align: center; line-height: 50px ;color:#00000">
+<div style="height: 100px; text-align: center; line-height: 80px ;color:#00000">
 
     <div style="font-size:32px">寻觅·诗APP 隐私权限政策</div> 
     
