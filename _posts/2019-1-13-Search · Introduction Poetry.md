@@ -31,7 +31,7 @@ tags:
 ### 详情页
 ![详情页](https://ws1.sinaimg.cn/large/006tNc79gy1fz5co6hgbtj30u01hc1kx.jpg)
 
-###### 详情页：右边有一排按钮，分别是：分享，注释，译文和收藏。
+###### 详情页：右边有一排按钮，分别是：分享，作者介绍，注释，译文和收藏和评论（如没有评论评论按钮隐藏）。
 
 ### 自定义分享
 ![自定义分享](https://ws2.sinaimg.cn/large/006tNc79gy1fz5cok94loj30u01hcx64.jpg)
