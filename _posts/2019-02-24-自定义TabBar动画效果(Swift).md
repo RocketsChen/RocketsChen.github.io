@@ -91,7 +91,7 @@ func tabBarController(_ tabBarController: UITabBarController, animationControlle
 
 ##### ❗️在swift中，我取消了这个属性，从而在类的内部去去通过获取当前TabVc的viewControllers的index来比较偏移方向。
 
-##### 相比较第更建议采用二种方法，在上传的代码中我没更改OC原来思路，可以查看源码进行对比。
+##### 相比较更建议采用第二种方法，在上传的代码中我没更改OC原来思路，可以查看源码进行对比。
 
 ##### 核心代码
 
