@@ -24,7 +24,7 @@ tags:
 
 #### 1：初始化：
 
-* 初始化子控制器
+* 初始化TabBar控制器
 
 * 遵守UITabBarControllerDelegate代理协议，实现代理方法
 
