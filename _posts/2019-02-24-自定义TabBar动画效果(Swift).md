@@ -152,7 +152,7 @@ extension DCSlideBarAnimation : UIViewControllerAnimatedTransitioning{
 ````
 
 #### 效果预览（GIF）
-[GIF演示](https://ws4.sinaimg.cn/large/006tKfTcgy1g0hp7o1ym5g30hs0b44qq.gif)
+![GIF演示](https://ws4.sinaimg.cn/large/006tKfTcgy1g0hp7o1ym5g30hs0b44qq.gif)
 
 #### OC版地址：[自定义TabBar动画效果 - 页面转场](http://chendiandian.fun/2018/12/15/%E8%87%AA%E5%AE%9A%E4%B9%89TabBar%E5%8A%A8%E7%94%BB%E6%95%88%E6%9E%9C/)
 
