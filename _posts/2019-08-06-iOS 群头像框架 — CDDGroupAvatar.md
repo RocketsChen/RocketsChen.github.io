@@ -199,7 +199,7 @@ id%@_num%zd_lastObj%@_distance%.f_bordWidth%.f_bgColor%@
 
 clean操作：清除所有内存缓存和磁盘缓存
 
-![](http://ww2.sinaimg.cn/large/006tNc79gy1g5nkb2qnyqg30hs0b4e86.gif)
+[GIF演示](http://ww2.sinaimg.cn/large/006tNc79gy1g5nkb2qnyqg30hs0b4e86.gif)
 
 如上截图中的样式在demo演示项目中均有实现。
 
